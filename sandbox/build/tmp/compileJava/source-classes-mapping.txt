@@ -1,4 +1,6 @@
 ru/stqa/raiff/sandbox/Point.java
  ru.stqa.raiff.sandbox.Point
+ru/stqa/raiff/sandbox/NewPoint.java
+ ru.stqa.raiff.sandbox.NewPoint
 ru/stqa/raiff/sandbox/MyFirstClass.java
  ru.stqa.raiff.sandbox.MyFirstClass
